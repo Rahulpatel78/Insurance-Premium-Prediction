@@ -12,5 +12,8 @@ insurance.egg-info/requires.txt
 insurance.egg-info/top_level.txt
 insurance/components/__init__.py
 insurance/entity/__init__.py
+insurance/entity/artifact_entity.py
+insurance/entity/config_entity.py
+insurance/exception/__init__.py
 insurance/logger/__init__.py
 insurance/pipeline/__init__.py
