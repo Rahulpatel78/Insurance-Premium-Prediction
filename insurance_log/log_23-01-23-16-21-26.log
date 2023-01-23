@@ -1,0 +1,4 @@
+[2023-01-23 16:21:27,884 ] 22 root - INFO - Export collection data as pandas dataframe
+[2023-01-23 16:21:27,885 ] 12 root - INFO - Reading data frame database:premium and collection: premium
+[2023-01-23 16:21:27,931 ] 14 root - INFO - Find columns: Index([], dtype='object')
+[2023-01-23 16:21:27,931 ] 26 root - INFO - Save data in feature store

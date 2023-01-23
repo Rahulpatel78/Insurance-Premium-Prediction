@@ -1,0 +1,4 @@
+[2023-01-23 16:24:35,917 ] 22 root - INFO - Export collection data as pandas dataframe
+[2023-01-23 16:24:35,918 ] 12 root - INFO - Reading data frame database:INSURANCE_PROJECT and collection: INSURANCE_PROJECT
+[2023-01-23 16:24:35,964 ] 14 root - INFO - Find columns: Index([], dtype='object')
+[2023-01-23 16:24:35,965 ] 26 root - INFO - Save data in feature store
